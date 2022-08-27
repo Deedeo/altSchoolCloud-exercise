@@ -4,4 +4,4 @@
 
 1. Once the Machine is up, i ran **ifconfig**, this is my output
 
-![ifconfig](altSchoolCloud-exercises/execrise1/images/Pictures11.png)
+![ifconfig](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise1/images/Picture11.png)

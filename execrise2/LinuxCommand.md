@@ -5,56 +5,56 @@
     
     Description: clears the terminal.
     
-    ![using clear in the terminal](altSchoolCloud-exercises/execrise2/images/Pictures0.jpg)
+    ![using clear in the terminal](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture0.jpg)
 2.  Command : echo $VARIABLE
     
     Description : To display value of a variable.
     
-    ![using echo command](altSchoolCloud-exercises/execrise2/images/Pictures1.png)
+    ![using echo command](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture1.png)
     
 3.  Command : $cd ..
     
     Description : To Move one Level up.
     
-    ![moving level up](altSchoolCloud-exercises/execrise2/images/Pictures2.png)
+    ![moving level up](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture2.png)
 4.  Command : $cd ~
     
     Description : Navigate to HOME directory.
-   ![change to Home directory](altSchoolCloud-exercises/execrise2/images/Pictures4.png)
+   ![change to Home directory](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture4.png)
    
 5.  Command : $ls -l
 
     Description : to show file type and access permission.
-    ![](altSchoolCloud-exercises/execrise2/images/Pictures3.png)
+    ![](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture3.png)
     
 6.  Command : $env
     
     Description : Displays all environment variables.
-    ![](altSchoolCloud-exercises/execrise2/images/Pictures5.png)
+    ![](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture5.png)
 
 7.  Command : $df -h
 
     Description : Show free and used space on mounted filesystems.
     
-    ![](altSchoolCloud-exercises/execrise2/images/Pictures6.png)
+    ![](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture6.png)
     
 8.  Command : $df -i
 
     Description : Show free and used inodes on mounted filesystems.
     
-    ![](altSchoolCloud-exercises/execrise2/images/Pictures8.png)
+    ![](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture8.png)
     
 9.  Command : $ls -R 
 
     Description : Lists files in sub-directories as well.
 
-    ![](altSchoolCloud-exercises/execrise2/images/Pictures9.png)
+    ![](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture9.png)
     
 10. Command : $history
 
     Description : Gives a list of all past commands typed in the current terminal session.
     
-    ![](altSchoolCloud-exercises/execrise2/images/Pictures10.png)
+    ![](https://github.com/Deedeo/altSchool-Cloud-exercises/blob/main/execrise2/images/Picture10.png)
     
     
 
